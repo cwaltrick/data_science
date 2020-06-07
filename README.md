@@ -7,9 +7,9 @@
 # Camila Waltrick
 *Desenvolvedora, graduada em engenharia de produção e, atualmente, cursando especialização em Ciência de Dados & Big Data.*
 
-Neste repositório, encontram-se alguns dos meus projetos. 
+**Neste repositório, encontram-se alguns dos meus projetos.** 
 
-**Background in:** Python, machine learning, ETL e visualização de dados.
+**Experiências com:** Python, machine learning, ETL e visualização de dados.
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/camilawaltrick)
