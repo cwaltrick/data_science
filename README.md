@@ -5,8 +5,7 @@
 </p>
 
 # Camila Waltrick
-
-<sub>Desenvolvedora, graduada em engenharia de produção e, atualmente, cursando especialização em Ciência de Dados & Big Data.</sub>
+*Desenvolvedora, graduada em engenharia de produção e, atualmente, cursando especialização em Ciência de Dados & Big Data.*
 
 Neste repositório, encontram-se alguns dos meus projetos. 
 
