@@ -5,9 +5,9 @@
 </p>
 
 # Camila Waltrick
-<sub>*Desenvolvedora* at RCI Consulting</sub>
+<sub>*Desenvolvedora, graduada em engenharia de produção e, atualmente, cursando especialização em Ciência de Dados & Big Data.*</sub>
 
-Escrever bio
+Neste repositório, encontram-se alguns dos meus projetos. 
 
 **Background in:** Python, machine learning, ETL e visualização de dados.
 
@@ -22,7 +22,5 @@ Veja os tutoriais publicados do Sigmoidal:
 
 * **Nome do proejto:** colar link
 
-
----
 
 
