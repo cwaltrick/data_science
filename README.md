@@ -18,7 +18,6 @@ Neste repositório, encontram-se alguns dos meus projetos.
 
 
 ## Projetos:
-Veja os tutoriais publicados do Sigmoidal:
 
 * **Nome do proejto:** colar link
 
