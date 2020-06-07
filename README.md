@@ -19,7 +19,7 @@
 
 ## Projetos:
 
-* **Regressão Linear Múltipla aplica a previsão do preço de automóveis:** colar link
+* **Regressão Linear Múltipla aplica a previsão do preço de automóveis:** https://bit.ly/378zKvy
 
 
 
