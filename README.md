@@ -11,7 +11,7 @@
 
 **Experiências com:** Python, machine learning, ETL e visualização de dados.
 
-**Links:**
+**Visite meus links:**
 * [LinkedIn](https://www.linkedin.com/in/camilawaltrick)
 * [Blog](https://www.medium.com/camilawaltrick)
 * [Acclaim](https://www.youracclaim.com/users/camila-waltrick/badges)
