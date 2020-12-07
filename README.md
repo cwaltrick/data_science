@@ -20,6 +20,7 @@
 ## Projetos:
 
 * **Regressão Linear Múltipla aplicada a previsão do preço de automóveis:** https://bit.ly/378zKvy
+* **Sistema de Recomendação de Filmes com Spark e ALS:** https://bit.ly/36Q2Ktk
 
 
 
